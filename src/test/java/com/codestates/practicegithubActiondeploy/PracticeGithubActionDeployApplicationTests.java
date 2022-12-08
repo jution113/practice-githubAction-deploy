@@ -11,3 +11,5 @@ class PracticeGithubActionDeployApplicationTests {
 	}
 
 }
+
+//test2
